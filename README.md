@@ -83,10 +83,12 @@
 
 ### Sign-up or Login Screen:
 - Allows new users to sign up and access subsequent screens.
+
 ![Sign in Page](ProjectScreenshots/1.png)
 ### Sign-up Screen:
 - Includes text fields, buttons, and labels.
 - Implements pop-up alerts for validation.
+
 ![Sign in Page](ProjectScreenshots/2.png)
 
 ### Goals Screen:
