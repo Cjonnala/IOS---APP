@@ -95,27 +95,41 @@
 - Allows users to select their fitness goals.
 - Prevents conflicting goal selection (e.g., losing and gaining weight at the same time).
 
+![Sign in Page](ProjectScreenshots/3.png)
+
 ### About You Screens:
 - Uses segmented controls, text fields, buttons, and labels.
 - Implements pop-up alerts for incorrect data input.
 
+![Sign in Page](ProjectScreenshots/4.png)
+
 ### Dashboard Screen:
 - Implemented as a **tab bar controller** item with pictures and a search bar.
+
+![Sign in Page](ProjectScreenshots/5.png)
 
 ### Food Log Screen:
 - Displays pictures and an **"Add Food"** button.
 - A new screen pops up with food data upon clicking the button.
 
+![Sign in Page](ProjectScreenshots/6.png)
+
 ### Food Options Screen:
 - Pops up from the **"Add Food"** button on the Food Log screen.
 - Implements **multi-touch** functionality, including text view and scroll views.
+
+![Sign in Page](ProjectScreenshots/7.png)
 
 ### Workouts Screen:
 - Includes **scroll views, text views, labels, and images**.
 - Implements **multi-touch** for zooming in and out of workout plans.
 
+![Sign in Page](ProjectScreenshots/8.png)
+
 ### More Screen:
 - Includes profile and settings options.
+
+![Sign in Page](ProjectScreenshots/8.png)
 
 ---
 
