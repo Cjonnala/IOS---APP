@@ -87,6 +87,7 @@
 ### Sign-up Screen:
 - Includes text fields, buttons, and labels.
 - Implements pop-up alerts for validation.
+![Sign in Page](ProjectScreenshots/2.png)
 
 ### Goals Screen:
 - Allows users to select their fitness goals.
